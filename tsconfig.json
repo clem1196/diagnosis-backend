@@ -1,0 +1,16 @@
+{
+    "compilerOptions": {
+        "lib": ["es5", "es6", "dom"],
+        "target": "ES2015",
+        "module": "CommonJS",
+        "moduleResolution": "node",
+        "emitDecoratorMetadata": true,
+        "experimentalDecorators": true,
+        "strict": true,
+        "skipDefaultLibCheck": true,
+        "forceConsistentCasingInFileNames": true,
+        "strictNullChecks": true,
+        "outDir": "./build", // Esto redirige la estructura de salida a la carpeta "dist"
+        "esModuleInterop": true
+    }
+}

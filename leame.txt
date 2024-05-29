@@ -1,0 +1,72 @@
+
+1.	LDH/DHL
+Peligro inicial
+Riesgo inicial
+Saludable
+Riesgo final
+Peligro final
+2.	GLUCOSA
+Normal
+Alto
+Muy Alto
+3.	COL. TOTAL
+Normal
+Moderado
+Alto
+4.	TRIGLICERIDOS
+Normal
+Moderado
+Alto
+Muy alto
+5.	UREA
+Bajo
+Normal
+Alto
+6.	Co2
+Bajo
+Normal
+Alto
+7.	VCM:
+Bajo
+Normal
+Alto
+8.	RDW ADE IDE:
+Bajo
+Normal
+Leve
+Severo
+9.	GGTP:
+Peligro inicial
+Saludable
+Leve
+Alto
+Muy alto
+Peligro final
+10.	TGO AST
+Peligro inicial
+Saludable
+Leve
+Alto
+Muy alto
+Peligro final
+11.	TGP ALT
+Peligro inicial
+Saludable
+Leve
+Alto
+Muy alto
+Peligro final
+12.	ACIDO URICO
+Peligro inicial
+Saludable
+Leve
+Peligro final
+13.	HEMOGLOBINA
+Bajo
+Normal
+Alto
+
+
+
+
+
